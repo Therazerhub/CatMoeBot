@@ -16,7 +16,7 @@ A simple, lightweight Telegram bot that lets you upload any file to [Catbox.moe]
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/yourusername/CatmoeBot.git
+git clone https://github.com/Therazerhub/CatmoeBot.git
 cd CatmoeBot
 python -m venv .venv
 .venv\Scripts\activate  # or source .venv/bin/activate
